@@ -1,0 +1,13 @@
+pandas
+pymongo[srv]
+requests
+tqdm
+lxml
+xgboost
+sklearn
+numpy
+python-dotenv
+gmaps
+matplotlib
+seaborn
+shap
